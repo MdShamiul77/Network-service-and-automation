@@ -1,3 +1,5 @@
 # Week 03
 
-![week3](./images/week3-task.png)
+![ICMP](./images/week3-ICMP-packet-capture.png)
+
+
