@@ -12,7 +12,7 @@ Host 2
 
 ![week3](./images/week3-host1.png)
 
-Clint
+Client
 
 ![week3](./images/week3-task1-client.png)
 
